@@ -1,1 +1,14 @@
-
+{
+    "id": ,
+    "name": "Dont Rate This Level",
+    "author": "",
+    "creators": [""],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 55,
+    "password": "Free Copy",
+    "records": [
+        {
+        }
+    ]
+}
